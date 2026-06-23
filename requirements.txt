@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+asyncpg
+python-jose[cryptography]
+bcrypt
+python-multipart
+python-socketio
+python-dotenv
+PyJWT
